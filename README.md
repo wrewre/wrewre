@@ -101,15 +101,6 @@ A distributed agentic AI system designed to generate structured and intelligent 
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wrewre&show_icons=true&theme=tokyonight" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrewre&layout=compact&theme=tokyonight" height="180em" />
-</p>
-
----
-
 # 🔥 Contribution Activity
 
 <p align="center">
